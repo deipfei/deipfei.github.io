@@ -79,7 +79,7 @@
     "growVerb": ["Grow"],
     "speakVerb": ["Speak", "Say", "Announce"],
     "verbGroups": ["#singVerb#", "#greetVerb#", "#caressVerb#", "#kissVerb#", "#growVerb#", "#speakVerb#", "#eatVerb#", "#cryVerb#", "#runVerb#", "#cheerVerb#", "#seeVerb#", "#beckonVerb#", "#danceVerb#", "#becomeVerbs#", "#soarVerbs#", "#laughVerbs#", "#jumpVerb#", "#adoreVerb#", "#wishVerb#", "#partyVerb#"],
-    "verbs": ["#verbGroups.past_tense#", "#verbGroups.ing#", "#verbGroups#", "#verbGroup.plural#"],
+    "verbs": ["#verbGroups.past_tense#", "#verbGroups.ing#", "#verbGroups#", "#verbGroups.plural#"],
     "word": ["#verbs#", "#adjectives#", "#nouns#"],
     "groupName": ["#word##dividers##word#", "#word# #word#", "#word# #prepositions# #word#"],
     "songName": ["#word##dividers##word#", "#word# #word#", "#word# #prepositions# #word#"]
