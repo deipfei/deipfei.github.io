@@ -1,4 +1,5 @@
-{
+{ 
+    "dividers": ["/", ":", "\\", "!", "?", "->", "<-", "<->", "*", "<3", "><", "&", "@"],
     "prepositions": ["On", "In", "Into", "Above", "Between", "Below", "Under", "Inside", "Outside", "Aside", "Beside", "Near", "Away From", "Off", "Atop"],
     "royaltyNouns": ["Royalty", "Prince", "Princess", "Queen", "King", "Duke", "Duchess", "Baron", "Baroness"],
     "animalNouns": ["Animal", "Bear", "Lion", "Shark", "Anaconda", "Python", "Panda", "Bird", "Falcon", "Eagle", "Horse", "Mare", "Stallion"],
