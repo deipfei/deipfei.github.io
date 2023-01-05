@@ -1,5 +1,4 @@
 {
-	"dividers": ["/", ":", "\\", "!", "?", "->", "<-", "<->", "*", "<3", "><", "&", "@"],
 	"realJapaneseGirlName": ["Momo", "Haruhi"],
 	"realJapaneseFamilyName": ["Momo", "Suzumiya"],
 	"realJapaneseName": ["#realJapaneseGirlName.capitalize# #realJapaneseFamilyName.capitalize#"],
@@ -79,6 +78,6 @@
 	"verbGroups": ["#generatedVerbs#", "#singVerb#", "#greetVerb#", "#caressVerb#", "#kissVerb#", "#growVerb#", "#speakVerb#", "#eatVerb#", "#cryVerb#", "#runVerb#", "#cheerVerb#", "#seeVerb#", "#beckonVerb#", "#danceVerb#", "#becomeVerbs#", "#soarVerbs#", "#laughVerbs#", "#jumpVerb#", "#adoreVerb#", "#wishVerb#", "#partyVerb#"],
 	"verbs": ["#verbGroups.past_tense#", "#verbGroups.ing#", "#verbGroups#", "#verbGroups.plural#"],
 	"word": ["#verbs#", "#adjectives#", "#nouns#"],
-	"groupName": ["#word##dividers##word#", "#word# #word#", "#word# #prepositions# #word#"],
-	"songName": ["#word##dividers##word#", "#word# #word#", "#word# #prepositions# #word#"]
+	"groupName": ["#word##word#", "#word# #word#", "#word# #prepositions# #word#"],
+	"songName": ["#word##word#", "#word# #word#", "#word# #prepositions# #word#"]
 }
