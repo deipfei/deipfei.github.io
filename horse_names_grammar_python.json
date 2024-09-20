@@ -39,13 +39,12 @@
 	"gun": ["shotgun", "rifle", "bullet", "pistol", "machine gun", "gun", "revolver"],
 	"bug": ["bug", "moth", "butterfly", "cricket", "locust", "spider", "caterpillar", "beetle"],
 	"object": ["#bug#", "#gun#", "#chess_piece#", "#time#", "#food#", "#astronomy#", "#weather#", "#tool#", "#street#", "#animal#", "#cryptid#", "#item#", "#idea#", "#body_part#", "#beverage#", "#royalty#", "#place#", "#gem#", "#jewelry#"],
-	"object_maybe_article": ["#object#", "#object.plural#", "the #object#", "#object.a_an#", "the #object.plural#"],
-	"noun_plural": ["#object#", "#object.plural#"],
+	"object_maybe_article": ["#object#", "#object.s#", "the #object#", "#object.a_an#", "the #object.s#"],
+	"noun_plural": ["#object#", "#object.s#"],
 	"noun": ["#object#"],
 	"maybe_preposition": [" ", " #preposition# "],
 	"random_word_type": ["#noun#", "#adjective_maybe_description#", "#verb#"],
 	"horse_name": ["#noun_plural# #noun#", "#adjective# #noun#", "#adjective# #adjective#"],
 	"silly_horse_name": ["#object_maybe_article##maybe_preposition##object_maybe_article#", "#adjective##maybe_preposition##object_maybe_article#", "#verb##maybe_preposition##object_maybe_article#", "#verb##maybe_preposition##adjective#", "#random_word_type##maybe_preposition##random_word_type#", "#verb##maybe_preposition##past_tense_verb#", "#verb##maybe_preposition##ing_verb#", "#preposition# #object_maybe_article##maybe_preposition##object_maybe_article#"],
-	"name": ["#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#horse_name.capitalize_all#", "#silly_horse_name.capitalize_all#"],
 	"name_python": ["#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#horse_name.capitalizeAll#", "#silly_horse_name.capitalizeAll#"]
 }
